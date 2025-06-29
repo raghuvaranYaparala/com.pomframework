@@ -79,7 +79,7 @@ public class CartPageTest extends BaseTest
         System.out.println(cp.jacketText.getText());
         
         Thread.sleep(3000);
-       // Assert.assertFalse(true);
+        Assert.assertFalse(true);
     
 	}
 	
